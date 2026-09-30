@@ -1,0 +1,16 @@
+{
+  "incomes": [
+    {
+      "id": 2,
+      "amount": 60,
+      "purpose": "Otabek"
+    }
+  ],
+  "expanses": [
+    {
+      "id": 1,
+      "amount": 40,
+      "purpose": "Sara"
+    }
+  ]
+}

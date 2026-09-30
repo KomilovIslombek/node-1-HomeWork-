@@ -1,0 +1,11 @@
+{
+  "name": "node-1",
+  "version": "1.0.0",
+  "description": "The first home work in node js using built-in and global objects",
+  "license": "ISC",
+  "author": "Islombek Komilov",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
