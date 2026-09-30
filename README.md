@@ -58,8 +58,8 @@ There are no third-party dependencies, so `npm install` is not required.
 Replace the URL below with this repository's GitHub clone URL:
 
 ```sh
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/KomilovIslombek/node-1-HomeWork-.git
+cd node-1-HomeWork-
 node balance --more
 ```
 
